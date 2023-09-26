@@ -51,39 +51,5 @@ public class DemoController {
 
         return LocalDateTime.now() + " oid: " + vo.getOid();
     }
-    public static void main(String[] args) {
-        // Java變數
-        String javaVariable = "Hello, World!";
-
-
-        // 使用Bash命令印出Java變數的內容
-        String bashCommand = "echo $JAVA_VARIABLE";
-
-        try {
-            // 創建一個新的進程來執行Bash命令
-            ProcessBuilder processBuilder = new ProcessBuilder("bash", "-c", bashCommand);
-
-            // 設定環境變數JAVA_VARIABLE的值
-            processBuilder.environment().put("JAVA_VARIABLE", javaVariable);
-
-            // 啟動進程
-            Process process = processBuilder.start();
-
-            // 獲取進程的輸出流
-            BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
-
-            // 讀取輸出並印出
-            String line;
-            while ((line = reader.readLine()) != null) {
-                System.out.println(line);
-            }
-
-            // 等待命令執行完成
-            process.waitFor();
-
-        } catch (IOException | InterruptedException e) {
-            e.printStackTrace();
-        }
-    }
 
 }
