@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prId>yaoTest2</prId>
+        <prName>yaoTest2</prName>
+        <prTpkind>1</prTpkind>
+        <prBzkind>C0001</prBzkind>
+        <prCmpflfg>1</prCmpflfg>
+        <prType>1</prType>
+        <prSubtype>103</prSubtype>
+        <prOwner>KENT</prOwner>
+        <prPausefg>N</prPausefg>
+        <prDlock>Y</prDlock>
+        <prCmppfg>1</prCmppfg>
+        <status>1</status>
+        <versn>1</versn>
+        <prRuntype>H</prRuntype>
+        <prVar1>aa</prVar1>
+        <prVar2>AA</prVar2>
+        <prVar3>cc</prVar3>
+        <createUser>zyaire</createUser>
+        <createTime>2024-04-17 16:31:05.005826</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.005630</updateTime>
+    </DATA>
+</DATA_LIST>

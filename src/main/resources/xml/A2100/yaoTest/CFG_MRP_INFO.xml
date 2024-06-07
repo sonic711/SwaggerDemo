@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpNo>A</mrpNo>
+        <mrpName>A</mrpName>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>KENT</createUser>
+        <createTime>2024-04-02 17:29:45.033790</createTime>
+        <updateUser>KENT</updateUser>
+        <updateTime>2024-04-02 17:29:45.033790</updateTime>
+    </DATA>
+</DATA_LIST>

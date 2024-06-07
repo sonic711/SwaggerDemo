@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923462</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G61_11.G61.G61.G092.O.PNAME</realContent>
+        <prcCndParam>B1</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRND-20240522-150104-923460</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.310252</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.310252</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923464</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G61_11.G61.G61.G092.O.DATE</realContent>
+        <prcCndParam>A2</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRND-20240522-150104-923460</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.327863</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.327863</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923465</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>aa</realContent>
+        <prcCndParam>B2</prcCndParam>
+        <mapType>2</mapType>
+        <linkOid>PRND-20240522-150104-923460</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.343512</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.343512</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150103-923444</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>AA</realContent>
+        <prcCndParam>A1</prcCndParam>
+        <mapType>3</mapType>
+        <linkOid>PRND-20240522-150103-923443</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:39.960432</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:39.960432</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150103-923445</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>1</realContent>
+        <prcCndParam>B1</prcCndParam>
+        <mapType>2</mapType>
+        <linkOid>PRND-20240522-150103-923443</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:39.976435</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:39.976435</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150103-923449</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G6102_21.G6102.A001.O.ACTRDATA</realContent>
+        <prcCndParam>A1</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRG-20240522-145840-923448</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.129091</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.129091</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923450</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G6102_21.G6102.A001.O.ACTRDATA</realContent>
+        <prcCndParam>B1</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRG-20240522-145840-923448</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.145792</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.145792</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923452</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G6102_21.G6102.G091.O.DATE</realContent>
+        <prcCndParam>A2</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRG-20240522-145840-923448</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.165339</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.165339</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923453</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G6103_22.G6103.G091.O.DATE</realContent>
+        <prcCndParam>B2</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRG-20240522-145840-923448</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.176340</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.176340</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923457</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G6102_21.G6102.A001.O.KINBR</realContent>
+        <prcCndParam>A1</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRG-20240522-145840-923456</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.244833</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.244833</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923458</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G61_11.G61.F777.O.OT_F777_CHNTXCD</realContent>
+        <prcCndParam>B1</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRG-20240522-145840-923456</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.258979</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.258979</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240522-150104-923461</prcmOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <realContent>G61_11.G61.G61.G092.O.DATE</realContent>
+        <prcCndParam>A1</prcCndParam>
+        <mapType>1</mapType>
+        <linkOid>PRND-20240522-150104-923460</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.295697</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.295697</updateTime>
+    </DATA>
+</DATA_LIST>

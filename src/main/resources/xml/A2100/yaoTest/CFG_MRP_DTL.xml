@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300868</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000135</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.BRNO</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.BRNO</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000250</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300869</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000136</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.TRMSEQ</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.TRMSEQ</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000002</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300870</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000137</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.TXTNO</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.TXTNO</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000003</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300871</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000138</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.TTSKID</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.TTSKID</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000007</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300872</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000139</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.TRMTYP</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.TRMTYP</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000008</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300873</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000140</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.TXTSK</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.TXTSK</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000107</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300874</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000141</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.MSGEND</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.MSGEND</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000108</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300875</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000142</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.TOTASEQ</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.TOTASEQ</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000109</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300876</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000143</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.APTYPE</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.APTYPE</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000110</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300877</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000144</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.MTYPE</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.MTYPE</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000111</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300878</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000145</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.MSGNO</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.MSGNO</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000112</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300891</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818468</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_ENTPNO</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_ENTPNO</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20231026-104631-010130</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300892</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818469</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_SERNO1</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_SERNO1</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20231026-104740-010135</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300893</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818470</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_SERNO2</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_SERNO2</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20231026-104809-010140</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300894</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818471</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_TOTCNT</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_TOTCNT</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20231026-104859-010145</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300879</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000146</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.MSGLNG</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.MSGLNG</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000113</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300880</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>LABD-20230613-090000-000-000147</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.WARNCNT</trgFldRtesname>
+        <section>L</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.WARNCNT</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000114</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300881</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818458</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_LABEL</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_LABEL</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20231127-150029-136229</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300882</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818459</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_ENTDY</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_ENTDY</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20231127-144412-136228</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300883</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818460</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_CODE</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_CODE</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000322</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300884</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818461</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_RCPTID</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_RCPTID</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000323</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300885</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818462</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_KIND</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_KIND</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20231026-104429-010124</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300886</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818463</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_TIME</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_TIME</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20230613-090000-000-000343</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300887</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818464</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_AMT</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_AMT</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20230613-090000-000-000391</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300888</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818465</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_KINBR</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_KINBR</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20230613-090000-000-000001</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300889</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818466</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_TRMNO</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_TRMNO</srcMprule>
+        <fldAlign>2</fldAlign>
+        <fldPadding>0</fldPadding>
+        <ddOid>DD-20230613-090000-000-000257</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+    <DATA>
+        <mrpdOid>MRPD-20240531-160537-300890</mrpdOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <trgTfmtOid>TFMT-20240416-111921-818467</trgTfmtOid>
+        <trgFldRtesname>G0064.S006.O.OT_G0064_TLRNO</trgFldRtesname>
+        <section>T</section>
+        <srcType>1</srcType>
+        <srcFuncid>G0064_11.G0064</srcFuncid>
+        <srcMprule>G0064_11.G0064.S006.O.OT_G0064_TLRNO</srcMprule>
+        <fldAlign>1</fldAlign>
+        <fldPadding>1</fldPadding>
+        <ddOid>DD-20230613-090000-000-000009</ddOid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.153933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.153933</updateTime>
+    </DATA>
+</DATA_LIST>

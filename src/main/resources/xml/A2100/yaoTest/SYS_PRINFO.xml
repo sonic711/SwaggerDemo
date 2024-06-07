@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <syprOid>SYPR-20240522-105026-914973</syprOid>
+        <sysId>FAS</sysId>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <prTxcode>G6131</prTxcode>
+        <prMsgid>S31</prMsgid>
+        <mrpNo>A</mrpNo>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <txTitofg>I</txTitofg>
+        <status>1</status>
+        <prRuntype1>N</prRuntype1>
+        <prRuntype2>Y</prRuntype2>
+        <createUser>carol</createUser>
+        <createTime>2024-05-22 10:50:26.853123</createTime>
+        <updateUser>carol</updateUser>
+        <updateTime>2024-05-22 10:50:26.853123</updateTime>
+    </DATA>
+</DATA_LIST>

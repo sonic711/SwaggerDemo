@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <prcOid>PRC-20240522-145839-923446</prcOid>
+        <prnOid>PRN-20240521-122312-874408</prnOid>
+        <prcCnd>AA==1</prcCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prcNoderuntp>RT202</prcNoderuntp>
+        <seq>1</seq>
+        <prId>yaoTest2</prId>
+        <runPrnid>G6103_22</runPrnid>
+        <cndDatasrc>3</cndDatasrc>
+        <realContentL>AA</realContentL>
+        <realContentR>1</realContentR>
+        <symbols>==</symbols>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:39.985435</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:39.985435</updateTime>
+    </DATA>
+    <DATA>
+        <prcOid>PRC-20240522-145840-923451</prcOid>
+        <prnOid>PRN-20240522-145840-923447</prnOid>
+        <prcCnd>G6102_21.G6102.A001.O.ACTRDATA&gt;G6102_21.G6102.A001.O.ACTRDATA</prcCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prcNoderuntp>RT272</prcNoderuntp>
+        <seq>1</seq>
+        <prId>yaoTest2</prId>
+        <prcmLogic>&amp;&amp;</prcmLogic>
+        <runPrnid>GTW_31</runPrnid>
+        <cndDatasrc>1</cndDatasrc>
+        <realContentL>G6102_21.G6102.A001.O.ACTRDATA</realContentL>
+        <realContentR>G6102_21.G6102.A001.O.ACTRDATA</realContentR>
+        <symbols>&gt;</symbols>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.151761</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.151761</updateTime>
+    </DATA>
+    <DATA>
+        <prcOid>PRC-20240522-145840-923454</prcOid>
+        <prnOid>PRN-20240522-145840-923447</prnOid>
+        <prcCnd>G6102_21.G6102.G091.O.DATE==G6103_22.G6103.G091.O.DATE</prcCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prcNoderuntp>RT272</prcNoderuntp>
+        <seq>2</seq>
+        <prId>yaoTest2</prId>
+        <runPrnid>GTW_31</runPrnid>
+        <cndDatasrc>1</cndDatasrc>
+        <realContentL>G6102_21.G6102.G091.O.DATE</realContentL>
+        <realContentR>G6103_22.G6103.G091.O.DATE</realContentR>
+        <symbols>==</symbols>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.185584</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.185584</updateTime>
+    </DATA>
+    <DATA>
+        <prcOid>PRC-20240522-145840-923459</prcOid>
+        <prnOid>PRN-20240522-145840-923455</prnOid>
+        <prcCnd>G6102_21.G6102.A001.O.KINBR&gt;G61_11.G61.F777.O.OT_F777_CHNTXCD</prcCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prcNoderuntp>RT272</prcNoderuntp>
+        <seq>1</seq>
+        <prId>yaoTest2</prId>
+        <runPrnid>GTW_32</runPrnid>
+        <cndDatasrc>1</cndDatasrc>
+        <realContentL>G6102_21.G6102.A001.O.KINBR</realContentL>
+        <realContentR>G61_11.G61.F777.O.OT_F777_CHNTXCD</realContentR>
+        <symbols>&gt;</symbols>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.264980</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.264980</updateTime>
+    </DATA>
+    <DATA>
+        <prcOid>PRC-20240522-145840-923463</prcOid>
+        <prnOid>PRN-20240417-163332-576169</prnOid>
+        <prcCnd>G61_11.G61.G61.G092.O.DATE&gt;G61_11.G61.G61.G092.O.PNAME</prcCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prcNoderuntp>RT202</prcNoderuntp>
+        <seq>1</seq>
+        <prId>yaoTest2</prId>
+        <prcmLogic>&amp;&amp;</prcmLogic>
+        <runPrnid>A2121_41</runPrnid>
+        <cndDatasrc>1</cndDatasrc>
+        <realContentL>G61_11.G61.G61.G092.O.DATE</realContentL>
+        <realContentR>G61_11.G61.G61.G092.O.PNAME</realContentR>
+        <symbols>&gt;</symbols>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.316147</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.316147</updateTime>
+    </DATA>
+    <DATA>
+        <prcOid>PRC-20240522-145840-923466</prcOid>
+        <prnOid>PRN-20240417-163332-576169</prnOid>
+        <prcCnd>G61_11.G61.G61.G092.O.DATE&gt;aa</prcCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prcNoderuntp>RT202</prcNoderuntp>
+        <seq>2</seq>
+        <prId>yaoTest2</prId>
+        <runPrnid>A2121_41</runPrnid>
+        <cndDatasrc>2</cndDatasrc>
+        <realContentL>G61_11.G61.G61.G092.O.DATE</realContentL>
+        <realContentR>aa</realContentR>
+        <symbols>&gt;</symbols>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.351479</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.351479</updateTime>
+    </DATA>
+</DATA_LIST>

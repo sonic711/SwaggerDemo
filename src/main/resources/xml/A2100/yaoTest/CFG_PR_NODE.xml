@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <prnOid>PRN-20240402-151640-866115</prnOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <prnId>G0064_11</prnId>
+        <prnSection>PR_START</prnSection>
+        <prnSectionseq>1</prnSectionseq>
+        <prnSeq>1</prnSeq>
+        <prnGtwareafg>N</prnGtwareafg>
+        <prnType>1</prnType>
+        <prnSubtype>103</prnSubtype>
+        <prnSysid>FAS</prnSysid>
+        <prnFuncid>G0064</prnFuncid>
+        <prnCmptype>0</prnCmptype>
+        <prnMaintxfg>Y</prnMaintxfg>
+        <rsreply>0</rsreply>
+        <status>1</status>
+        <versn>31</versn>
+        <prnExecfg>N</prnExecfg>
+        <prn272fg>N</prn272fg>
+        <createUser>KENT</createUser>
+        <createTime>2024-04-02 15:16:40.470665</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.854422</updateTime>
+    </DATA>
+    <DATA>
+        <prnOid>PRN-20240402-151640-866116</prnOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <prnId>G6104_21</prnId>
+        <prnSection>A</prnSection>
+        <prnSectionseq>2</prnSectionseq>
+        <prnSeq>1</prnSeq>
+        <prnGtwareafg>N</prnGtwareafg>
+        <prnType>1</prnType>
+        <prnSubtype>101</prnSubtype>
+        <prnSysid>BIS</prnSysid>
+        <prnFuncid>G6104</prnFuncid>
+        <prnCmptype>0</prnCmptype>
+        <prnMaintxfg>Y</prnMaintxfg>
+        <rsreply>0</rsreply>
+        <status>1</status>
+        <versn>31</versn>
+        <prnExecfg>N</prnExecfg>
+        <prn272fg>N</prn272fg>
+        <createUser>KENT</createUser>
+        <createTime>2024-04-02 15:16:40.470852</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.854422</updateTime>
+    </DATA>
+    <DATA>
+        <prnOid>PRN-20240411-182138-201329</prnOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <prnId>G2017_22</prnId>
+        <prnSection>A</prnSection>
+        <prnSectionseq>2</prnSectionseq>
+        <prnSeq>2</prnSeq>
+        <prnGtwareafg>N</prnGtwareafg>
+        <prnType>1</prnType>
+        <prnSubtype>101</prnSubtype>
+        <prnSysid>FAS</prnSysid>
+        <prnFuncid>G2017</prnFuncid>
+        <prnCmptype>0</prnCmptype>
+        <prnMaintxfg>Y</prnMaintxfg>
+        <rsreply>0</rsreply>
+        <status>1</status>
+        <versn>20</versn>
+        <prnExecfg>Y</prnExecfg>
+        <prn272fg>N</prn272fg>
+        <createUser>zyaire</createUser>
+        <createTime>2024-04-11 18:21:37.970602</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.854422</updateTime>
+    </DATA>
+    <DATA>
+        <prnOid>PRN-20240529-144408-244459</prnOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <prnId>G0064_23</prnId>
+        <prnSection>A</prnSection>
+        <prnSectionseq>2</prnSectionseq>
+        <prnSeq>3</prnSeq>
+        <prnGtwareafg>N</prnGtwareafg>
+        <prnType>1</prnType>
+        <prnSubtype>105</prnSubtype>
+        <prnSysid>BIS</prnSysid>
+        <prnFuncid>G0064</prnFuncid>
+        <prnCmptype>2</prnCmptype>
+        <prnCmpfuncid>G0064</prnCmpfuncid>
+        <prnMaintxfg>Y</prnMaintxfg>
+        <rsreply>0</rsreply>
+        <status>1</status>
+        <versn>4</versn>
+        <cmpPrnId>G0064_23_C</cmpPrnId>
+        <prnExecfg>N</prnExecfg>
+        <prn272fg>N</prn272fg>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 14:44:08.901404</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.854422</updateTime>
+    </DATA>
+    <DATA>
+        <prnOid>PRN-20240402-151640-866119</prnOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <prnId>SetResData_31</prnId>
+        <prnSection>TOTA</prnSection>
+        <prnSectionseq>3</prnSectionseq>
+        <prnSeq>1</prnSeq>
+        <prnGtwareafg>N</prnGtwareafg>
+        <prnType>2</prnType>
+        <prnSubtype>201</prnSubtype>
+        <prnSysid>FSAP</prnSysid>
+        <prnFuncid>SetResData</prnFuncid>
+        <rsreply>1</rsreply>
+        <status>1</status>
+        <versn>31</versn>
+        <prnExecfg>N</prnExecfg>
+        <prn272fg>N</prn272fg>
+        <createUser>KENT</createUser>
+        <createTime>2024-04-02 15:16:40.470956</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.854422</updateTime>
+    </DATA>
+</DATA_LIST>

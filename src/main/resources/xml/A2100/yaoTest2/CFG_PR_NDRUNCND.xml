@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <prndOid>PRND-20240522-150103-923443</prndOid>
+        <prnOid>PRN-20240521-122312-874408</prnOid>
+        <prnCnd>AA==1</prnCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prId>yaoTest2</prId>
+        <runPrnid>G6103_22</runPrnid>
+        <status>1</status>
+        <versn>1</versn>
+        <realCnd>${A1}==${B1}</realCnd>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:39.992435</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:39.992435</updateTime>
+    </DATA>
+    <DATA>
+        <prndOid>PRND-20240522-150104-923460</prndOid>
+        <prnOid>PRN-20240417-163332-576169</prnOid>
+        <prnCnd>G61_11.G61.G61.G092.O.DATE&gt;G61_11.G61.G61.G092.O.PNAME&amp;&amp;G61_11.G61.G61.G092.O.DATE&gt;aa</prnCnd>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prId>yaoTest2</prId>
+        <runPrnid>A2121_41</runPrnid>
+        <status>1</status>
+        <versn>1</versn>
+        <realCnd>${A1}&gt;${B1}&amp;&amp;${A2}&gt;${B2}</realCnd>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-22 14:58:40.356933</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-22 14:58:40.356933</updateTime>
+    </DATA>
+</DATA_LIST>

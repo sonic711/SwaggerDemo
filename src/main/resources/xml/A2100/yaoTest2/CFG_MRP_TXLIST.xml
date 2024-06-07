@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <mrptOid>MRPT-20240523-150431-971100</mrptOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prId>yaoTest2</prId>
+        <mrpOid>MRP-20240523-150354-971087</mrpOid>
+        <prnOid>PRN-20240417-163105-576166</prnOid>
+        <prnComprsfg>N</prnComprsfg>
+        <prnFuncid>G6102</prnFuncid>
+        <txTitofg>O</txTitofg>
+        <txfLinkid>G6102.G091.O</txfLinkid>
+        <txMsgid>G091</txMsgid>
+        <status>1</status>
+        <versn>1</versn>
+        <repfg>Y</repfg>
+        <rqRs>RS</rqRs>
+        <createUser>CAROL</createUser>
+        <createTime>2024-05-23 15:02:09.408190</createTime>
+        <updateUser>CAROL</updateUser>
+        <updateTime>2024-05-23 15:02:09.408190</updateTime>
+    </DATA>
+    <DATA>
+        <mrptOid>MRPT-20240523-150413-971094</mrptOid>
+        <prOid>PR-20240417-163105-576162</prOid>
+        <prId>yaoTest2</prId>
+        <mrpOid>MRP-20240523-150354-971087</mrpOid>
+        <prnOid>PRN-20240417-163105-576166</prnOid>
+        <prnComprsfg>N</prnComprsfg>
+        <prnFuncid>G6101</prnFuncid>
+        <txTitofg>O</txTitofg>
+        <txfLinkid>G6101.G093.O</txfLinkid>
+        <txMsgid>G093</txMsgid>
+        <status>1</status>
+        <versn>1</versn>
+        <repfg>Y</repfg>
+        <rqRs>RS</rqRs>
+        <createUser>CAROL</createUser>
+        <createTime>2024-05-23 15:01:50.905250</createTime>
+        <updateUser>CAROL</updateUser>
+        <updateTime>2024-05-23 15:01:50.905250</updateTime>
+    </DATA>
+</DATA_LIST>

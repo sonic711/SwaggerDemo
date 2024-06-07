@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <peOid>PE-20240529-171838-249643</peOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <peIncomingoid>PRN-20240402-151640-866115</peIncomingoid>
+        <peOutgoingoid>PRN-20240402-151640-866116</peOutgoingoid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.736829</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.736829</updateTime>
+    </DATA>
+    <DATA>
+        <peOid>PE-20240529-171838-249644</peOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <peIncomingoid>PRN-20240402-151640-866116</peIncomingoid>
+        <peOutgoingoid>PRN-20240411-182138-201329</peOutgoingoid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.758928</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.758928</updateTime>
+    </DATA>
+    <DATA>
+        <peOid>PE-20240529-171838-249647</peOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <peIncomingoid>PRN-20240402-151640-866119</peIncomingoid>
+        <peOutgoingoid>END</peOutgoingoid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.830401</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.830401</updateTime>
+    </DATA>
+    <DATA>
+        <peOid>PE-20240529-171838-249645</peOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <peIncomingoid>PRN-20240411-182138-201329</peIncomingoid>
+        <peOutgoingoid>PRN-20240529-144408-244459</peOutgoingoid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.781850</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.781850</updateTime>
+    </DATA>
+    <DATA>
+        <peOid>PE-20240529-171838-249646</peOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <peIncomingoid>PRN-20240529-144408-244459</peIncomingoid>
+        <peOutgoingoid>PRN-20240402-151640-866119</peOutgoingoid>
+        <status>1</status>
+        <versn>1</versn>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.807392</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.807392</updateTime>
+    </DATA>
+</DATA_LIST>

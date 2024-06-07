@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <mrptOid>MRPT-20240531-160537-300867</mrptOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <prnOid>PRN-20240402-151640-866115</prnOid>
+        <prnComprsfg>N</prnComprsfg>
+        <prnFuncid>G0064</prnFuncid>
+        <txTitofg>O</txTitofg>
+        <txfLinkid>G0064.S006.O</txfLinkid>
+        <txMsgid>S006</txMsgid>
+        <status>1</status>
+        <versn>1</versn>
+        <repfg>Y</repfg>
+        <rqRs>RQ</rqRs>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-31 16:03:09.041441</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-31 16:03:09.041441</updateTime>
+    </DATA>
+    <DATA>
+        <mrptOid>MRPT-20240529-172330-249714</mrptOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <prnOid>PRN-20240402-151640-866115</prnOid>
+        <prnComprsfg>N</prnComprsfg>
+        <prnFuncid>G0064</prnFuncid>
+        <txTitofg>O</txTitofg>
+        <txfLinkid>G0064.G098.O</txfLinkid>
+        <txMsgid>G098</txMsgid>
+        <status>1</status>
+        <versn>1</versn>
+        <repfg>Y</repfg>
+        <rqRs>RS</rqRs>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:21:04.552325</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:21:04.552325</updateTime>
+    </DATA>
+    <DATA>
+        <mrptOid>MRPT-20240529-145839-244837</mrptOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <mrpOid>MRP-20240402-173136-870242</mrpOid>
+        <prnOid>PRN-20240529-144408-244459</prnOid>
+        <prnComprsfg>N</prnComprsfg>
+        <prnFuncid>A8101</prnFuncid>
+        <txTitofg>O</txTitofg>
+        <txfLinkid>A8101.I</txfLinkid>
+        <txMsgid>A8101</txMsgid>
+        <status>1</status>
+        <versn>1</versn>
+        <repfg>Y</repfg>
+        <rqRs>RS</rqRs>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 14:56:13.629792</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 14:56:13.629792</updateTime>
+    </DATA>
+</DATA_LIST>

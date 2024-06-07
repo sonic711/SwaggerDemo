@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <prcmOid>PRCM-20240529-172104-249638</prcmOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <realContent>PR_VAR1</realContent>
+        <prcCndParam>A1</prcCndParam>
+        <mapType>3</mapType>
+        <linkOid>PRND-20240529-172104-249637</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.406520</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.406520</updateTime>
+    </DATA>
+    <DATA>
+        <prcmOid>PRCM-20240529-172104-249639</prcmOid>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <realContent>qq</realContent>
+        <prcCndParam>B1</prcCndParam>
+        <mapType>2</mapType>
+        <linkOid>PRND-20240529-172104-249637</linkOid>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.480630</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.480630</updateTime>
+    </DATA>
+</DATA_LIST>

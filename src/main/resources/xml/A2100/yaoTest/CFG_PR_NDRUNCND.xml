@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DATA_LIST>
+    <DATA>
+        <prndOid>PRND-20240529-172104-249637</prndOid>
+        <prnOid>PRN-20240411-182138-201329</prnOid>
+        <prnCnd>PR_VAR1&gt;qq</prnCnd>
+        <prOid>PR-20240402-151640-866113</prOid>
+        <prId>yaoTest</prId>
+        <runPrnid>G2017_22</runPrnid>
+        <status>1</status>
+        <versn>1</versn>
+        <realCnd>${A1}&gt;${B1}</realCnd>
+        <createUser>zyaire</createUser>
+        <createTime>2024-05-29 17:18:38.540054</createTime>
+        <updateUser>zyaire</updateUser>
+        <updateTime>2024-05-29 17:18:38.540054</updateTime>
+    </DATA>
+</DATA_LIST>
