@@ -32,6 +32,7 @@ public class SwaggerConfig {
 		String description = "後台管理系統 API Specifications";
 		info.title("SWAGGER-DEMO-API").version(version).description(description);
 		openAPI.setInfo(info);
+		
 
 		List<Server> servers = new ArrayList<>();
 		servers.add(new Server().url(baseUrl));
