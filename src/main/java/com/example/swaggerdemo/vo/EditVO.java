@@ -10,4 +10,5 @@ public class EditVO {
     @Schema(name = "oid",example = "SEANTEST001", description = "OID 代碼", required = true)
     private String oid;
 
+
 }
