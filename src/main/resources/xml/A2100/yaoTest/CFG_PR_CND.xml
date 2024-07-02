@@ -1,21 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<DATA_LIST>
-    <DATA>
-        <prcOid>PRC-20240529-171838-249640</prcOid>
-        <prnOid>PRN-20240411-182138-201329</prnOid>
-        <prcCnd>PR_VAR1&gt;qq</prcCnd>
-        <prOid>PR-20240402-151640-866113</prOid>
-        <prcNoderuntp>RT202</prcNoderuntp>
-        <seq>1</seq>
-        <prId>yaoTest</prId>
-        <runPrnid>G2017_22</runPrnid>
-        <cndDatasrc>3</cndDatasrc>
-        <realContentL>PR_VAR1</realContentL>
-        <realContentR>qq</realContentR>
-        <symbols>&gt;</symbols>
-        <createUser>zyaire</createUser>
-        <createTime>2024-05-29 17:18:38.509105</createTime>
-        <updateUser>zyaire</updateUser>
-        <updateTime>2024-05-29 17:18:38.509105</updateTime>
-    </DATA>
-</DATA_LIST>
+<DATA_LIST/>
